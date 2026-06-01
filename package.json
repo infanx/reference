@@ -14,7 +14,9 @@
     "start": "npm run cpy && refs-cli --watch",
     "cpy": "cpy 'appicon/*.png' dist/appicon",
     "prettier": "prettier --write '**/*.{mjs,css,json,prettierrc,lintstagedrc}'",
-    "markdownlint": "npx markdownlint-cli --fix ./docs/*.md"
+    "markdownlint": "npx markdownlint-cli --fix ./docs/*.md",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
   },
   "repository": {
     "type": "git",
@@ -36,7 +38,8 @@
     "markdownlint": "^0.33.0",
     "markdownlint-cli": "^0.39.0",
     "prettier": "^3.0.0",
-    "refs-cli": "^1.11.1"
+    "refs-cli": "^1.11.1",
+    "wrangler": "^4.95.0"
   },
   "engines": {
     "node": ">=16.0.0"
