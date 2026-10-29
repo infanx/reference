@@ -1,45 +1,3 @@
-<!--rehype:ignore:start-->
-<div align="center" markdown="1">
-  <sup>Special thanks to:</sup>
-  <br>
-  <br>
-
-  <a href="https://www.enconvo.com/zh-CN" target="_blank">
-    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
-  </a>
-  <br>
-  <a href="https://www.enconvo.com/zh-CN" target="_blank"><b>Enconvo</b> - 遍布整个 Mac 的 AI 智能体</a><br/>
-  <a href="https://www.enconvo.com/zh-CN" target="_blank">它能看到您的屏幕，在您的应用中工作，并真正把事情做完。</a>
-  <br><br>
-
-
-  <a href="https://getapps.cafe/">
-    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
-  </a>
-  <br>
-  <a href="https://getapps.cafe/">getapps.cafe，60 多款原生 Mac 应用，涵盖实用工具、办公、创意和生产力等类别，全部在本地运行，确保你的数据永远不会离开你的设备。</a>
-  <br><br>
-
-
-  <a href="https://screensage.pro/" target="_blank">
-    <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
-  </a>
-  <br>
-  <a href="https://screensage.pro/">ScreenSage Pro，在 macOS 上几分钟内录制精美的屏幕录像</a>
-  <br><br>
-
-
-  <a href="https://github.com/Doloffer-g/guide">
-    <img alt="doloffer sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/doloffer.jpg">
-  </a>
-  <br>
-  <a href="https://github.com/Doloffer-g/guide"><b>DolOffer - 一站式数字订阅充值平台</b></a><br>
-  <a href="https://doloffer.com">主营 GPT、Claude 等 AI 多类数字服务会员正版订阅，9 折优惠码 AI8888，极速发货，售后无忧</a><br><br>
-
-</div>
-<hr>
-<!--rehype:ignore:end-->
-
 Quick Reference
 ===
 
@@ -105,16 +63,26 @@ Quick Reference
   <sup>特别感谢：</sup>
   <br>
   <p>
+    <a href="https://amical.ai/?utm_source=awesome-mac" target="_blank">
+      <img alt="Amical" width="400" src="https://jaywcjlove.github.io/sponsor/amical.ai.jpg">
+      <!--rehype:style=width: 210px;-->
+      <br>
+      <b>Amical</b> - 语音输入，让文字自然呈现。<br/>
+      按下快捷键，自然地说出你想表达的内容，文字会自动适配当前应用的格式。使用本地 AI 模型，支持离线运行，免费且开源。<br/>
+    </a>
+    <!--rehype:style=width: 210px;font-size: 14px;-->
+    <br/><!--rehype:style=display: none;-->
+    <br/><!--rehype:style=display: none;-->
     <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">
-      <img alt="DolOffer" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
+      <img alt="Enconvo" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
       <!--rehype:style=width: 210px;-->
       <br>
       <b>Enconvo</b> - 遍布整个 Mac 的 AI 智能体<br/>
       它能看到您的屏幕，在您的应用中工作，并真正把事情做完。<br/>
     </a>
     <!--rehype:style=width: 210px;font-size: 14px;-->
-    <br/>
-    <br/>
+    <br/><!--rehype:style=display: none;-->
+    <br/><!--rehype:style=display: none;-->
     <a href="https://getapps.cafe" target="_blank">
       <img alt="DolOffer" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
       <!--rehype:style=width: 210px;-->
@@ -123,23 +91,13 @@ Quick Reference
       60 多款原生 Mac 应用，涵盖实用工具、办公、创意和生产力等类别，全部在本地运行，确保你的数据永远不会离开你的设备。<br/>
     </a>
     <!--rehype:style=width: 210px;font-size: 14px;-->
-    <br/>
-    <br/>
+    <br/><!--rehype:style=display: none;-->
+    <br/><!--rehype:style=display: none;-->
     <a href="https://screensage.pro/" target="_blank">
       <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
       <!--rehype:style=width: 210px;-->
       <br>
       <b>ScreenSage Pro，在 macOS 上几分钟内录制精美的屏幕录像</b>
-    </a>
-    <!--rehype:style=width: 210px;font-size: 14px;-->
-    <br/>
-    <br/>
-    <a href="https://doloffer.com/" target="_blank">
-      <img alt="DolOffer" width="400" src="https://jaywcjlove.github.io/sponsor/doloffer.jpg">
-      <!--rehype:style=width: 210px;-->
-      <br>
-      <b>DolOffer - 一站式数字订阅充值平台</b><br/>
-      主营 GPT、Claude 等 AI 多类数字服务会员正版订阅，9 折优惠码 AI8888，极速发货，售后无忧<br/>
     </a>
     <!--rehype:style=width: 210px;font-size: 14px;-->
   </p>
@@ -485,7 +443,7 @@ Quick Reference
 <a href="https://github.com/nangongchengfeng" title="南宫乘风"><img src="https://avatars.githubusercontent.com/u/46562911?v=4" width="42;" alt="南宫乘风"/></a>
 <a href="https://github.com/aixcyi" title="路狐羽"><img src="https://avatars.githubusercontent.com/u/75880483?v=4" width="42;" alt="路狐羽"/></a>
 <a href="https://github.com/LufsX" title="LufsX"><img src="https://avatars.githubusercontent.com/u/33221883?v=4" width="42;" alt="LufsX"/></a>
-<a href="https://github.com/liduchuan" title="Wade"><img src="https://avatars.githubusercontent.com/u/115539090?v=4" width="42;" alt="Wade"/></a>
+<a href="https://github.com/liduchuan" title="liduchuan"><img src="https://avatars.githubusercontent.com/u/115539090?v=4" width="42;" alt="liduchuan"/></a>
 <a href="https://github.com/mailbaoer" title="baoer"><img src="https://avatars.githubusercontent.com/u/5282978?v=4" width="42;" alt="baoer"/></a>
 <a href="https://github.com/expoli" title="expoli"><img src="https://avatars.githubusercontent.com/u/31023767?v=4" width="42;" alt="expoli"/></a>
 <a href="https://github.com/k23223" title="k23223"><img src="https://avatars.githubusercontent.com/u/57606136?v=4" width="42;" alt="k23223"/></a>
@@ -548,7 +506,7 @@ Quick Reference
 <a href="https://github.com/kcmeven" title="Evan-k"><img src="https://avatars.githubusercontent.com/u/48147837?v=4" width="42;" alt="Evan-k"/></a>
 <a href="https://github.com/kdxcxs" title="kdxcxs"><img src="https://avatars.githubusercontent.com/u/18746192?v=4" width="42;" alt="kdxcxs"/></a>
 <a href="https://github.com/kubeme" title="kubernetes for me"><img src="https://avatars.githubusercontent.com/u/16346220?v=4" width="42;" alt="kubernetes for me"/></a>
-<a href="https://github.com/larry-xue" title="yujian"><img src="https://avatars.githubusercontent.com/u/48818060?v=4" width="42;" alt="yujian"/></a>
+<a href="https://github.com/itsyujay" title="yujay"><img src="https://avatars.githubusercontent.com/u/48818060?v=4" width="42;" alt="yujay"/></a>
 <a href="https://github.com/leauny" title="leauny"><img src="https://avatars.githubusercontent.com/u/42369176?v=4" width="42;" alt="leauny"/></a>
 <a href="https://github.com/liliangrong777" title="liliangrong777"><img src="https://avatars.githubusercontent.com/u/58727146?v=4" width="42;" alt="liliangrong777"/></a>
 <a href="https://github.com/qiukuip" title="qiukuip | 秋葵笔记"><img src="https://avatars.githubusercontent.com/u/44923922?v=4" width="42;" alt="qiukuip | 秋葵笔记"/></a>
